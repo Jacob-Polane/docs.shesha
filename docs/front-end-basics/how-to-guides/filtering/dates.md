@@ -17,7 +17,8 @@ Displaying data from a predefined time range, like "Last 7 days" or "This month.
    - Click the ellipsis next to the operator and select which value source you want to use (value, field and function Check *Figure 3*)
        1. Select value if a static date is to be used.
        2. Select field if you would like to compare to an existing property.
-       3. select function if the a customised function is to be used.
+       3. Select function if the a customised function is to be used.
+   - Configure the filter and save the filter
 
 ## Filtering using a custommised date :
 
@@ -31,7 +32,16 @@ Displaying data from a predefined time range, like "Last 7 days" or "This month.
 *Figure 3*
 
 After selecting the function value source there are 3 options (now, relative, Evaluate)
-1. Select now if you would to return data 
+1. Now : Select this option to filter data based on your chosen property and the current date.
+2. Relative : Select 'Relative' to use the current date with an added or subtracted time interval.
+3. Evaluate : Select 'Evaluate', you can use mustache syntax to dynamically embed values into your expressions. This allows you to insert variables, properties
+
+For example, we can use the 'Relative' option to filter data for products created in the last seven days.
+
+***Note:** A negative sign is used to filter past dates.*
+
+![image](https://github.com/user-attachments/assets/056071e4-9c3b-41ad-8cec-0d2f2f309df9)
+
 
 
 
