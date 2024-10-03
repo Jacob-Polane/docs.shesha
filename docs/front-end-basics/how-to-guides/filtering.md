@@ -25,7 +25,7 @@ Filtering with static values refers to the process of filtering and displaying d
 
 - **Status Filters:** Showing data based on a specific status, such as "Open," "Closed," or "Pending."
 
-- **Time-based Filters:** Displaying data from a predefined time range, like "Last 7 days" or "This month."
+- **Time-based Filters:** Displaying data from a predefined time range, like "Last 7 days" or "This month. [Check](docs/front-end-basics/how-to-guides/filtering/dates.md)"
 
 - **Hardcoding in UI Components:** In user interfaces, static values can be hardcoded into dropdown menus, buttons, or other UI components that users can interact with. Selecting an option triggers the predefined filter.
 
