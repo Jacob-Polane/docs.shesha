@@ -4,12 +4,14 @@ Displaying data from a predefined time range, like "Last 7 days" or "This month.
 
 1. After adding the [Table View Selector](https://docs.shesha.io/docs/front-end-basics/form-components/data-display/data-table/table-view-selector)
 
-   ![image](https://github.com/user-attachments/assets/dd984ad1-ab70-4054-8554-037cefa99a52)
+   ![table view selector](https://github.com/user-attachments/assets/deb3e9bd-bd68-4e4f-b3ec-8df1e196b3bb)
+
    
 2. Click on add filter on the property setting side panel
 3. Click on the gear icon to configure the filter
 
-   ![image](https://github.com/user-attachments/assets/ea6d7687-4c6b-45a8-8b97-9871026bb3f7)
+   ![gear icon](https://github.com/user-attachments/assets/16ec488b-eb67-4043-a3a8-d38420c57d26)
+
    
 4. Add  a rule to the filter
    - Select the property you will apply filter to (must be of type date). Check *Figure 2*
@@ -22,13 +24,16 @@ Displaying data from a predefined time range, like "Last 7 days" or "This month.
 
 ## Filtering using a custommised date :
 
-![image](https://github.com/user-attachments/assets/d8def4ac-20a1-4600-b1ed-b31edcd8fbe8)
+![add rule](https://github.com/user-attachments/assets/5177da87-7005-427e-bb25-431e3def6a67)
+
 *Figure 1*
 
-![image](https://github.com/user-attachments/assets/ff064ee4-0f02-4f82-9b05-d04714fe755b)
+![select property](https://github.com/user-attachments/assets/9c88db1f-fbd7-4e2b-b404-5f2c206bf66a)
+
 *Figure 2*
 
-![image](https://github.com/user-attachments/assets/45872715-9b1d-4edc-8a07-cbaaa6f78398)
+![select value source](https://github.com/user-attachments/assets/99a2f988-279a-4a18-8df6-6ae680842fe2)
+
 *Figure 3*
 
 After selecting the function value source there are 3 options (now, relative, Evaluate)
